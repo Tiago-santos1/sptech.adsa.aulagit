@@ -1,2 +1,2 @@
 # sptech.adsa.aulagit
-hello Word!!
+hello World!!
